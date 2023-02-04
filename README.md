@@ -4,7 +4,7 @@
 
 ### Ответ:
 
-Создадим новый namaspace и сервис-аккаунт, посмотрим список сервис-аккаунтов :
+Создадим новый namespace и сервис-аккаунт, посмотрим список сервис-аккаунтов :
 ```
 vagrant@vagrant:~$ kubectl create ns netology
 namespace/netology created
